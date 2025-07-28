@@ -1,0 +1,1 @@
+-- These Python scripts were used during the deployment of the NFC/RFID device used for recording the attendance of students and teachers of the CSEA Department in Ateneo de Naga University -- 
